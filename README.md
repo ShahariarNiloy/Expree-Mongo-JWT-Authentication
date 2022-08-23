@@ -1,4 +1,4 @@
-# Express-Mongo-JWT-Authentication
+# Express-Mongo-JWT-Authentication ( Smoothie App )
 
 This is a learning project followed along from [The Net Ninja's](https://www.youtube.com/c/TheNetNinja) Youtube Playlist [Node.js Auth Tutorial (JWT)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp)
 
